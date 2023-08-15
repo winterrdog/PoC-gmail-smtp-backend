@@ -8,6 +8,6 @@ PoC to test gmail's ability to send mails from a backend
 - rememeber to use the password alongside your email
 
 # usage
-- set up these 3 environment variables: `GMAIL_PASSWORD, GMAIL_MAIL, RECEIVER_EMAIL_ADDR`. place them in a `.env` file
-- `npm i`
-- `npm start`
+1. set up these 3 environment variables: `GMAIL_PASSWORD, GMAIL_MAIL, RECEIVER_EMAIL_ADDR`. place them in a `.env` file
+2. `npm i`
+3. `npm start`
