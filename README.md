@@ -9,5 +9,5 @@ PoC to test gmail's ability to send mails from a backend
 
 #usage
 - set up these 3 environment variables: `GMAIL_PASSWORD, GMAIL_MAIL, RECEIVER_EMAIL_ADDR`. place them in a `.env` file
-- npm i
-- npm start
+- `npm i`
+- `npm start`
