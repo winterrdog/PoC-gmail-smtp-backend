@@ -4,7 +4,8 @@ PoC to test gmail's ability to send mails from a backend
 # requirements
 - make sure your gmail account has 2FA activated( _Make sure u do so, otherwise you'll stay wishing_ )
 - enable *App passwords* in your Google account
-- then create an app, then use the password google will provide u with to setup the smtp config in the nodemailer config.
+- then create an app under `App passwords`
+- use the password google will provide u with to setup the smtp config in the `nodemailer` config.
 - rememeber to use the password alongside your email
 
 # usage
